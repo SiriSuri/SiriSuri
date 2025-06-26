@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sireesha Segireddy
+A Certified Ethical Hacker(CEH v12) and on mission to secure IT & OT infrastructure.
 
-<!--
-**SiriSuri/SiriSuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Current Focus
+- SOC Tools: Splunk, Wireshark, Nmap
+- Compliance: ASD Essential Eight & ISO 27001
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 🖥️ Network Scanning: Nmap, Wireshark
+- 🔒 Web Security: OWASP Top 10, Burp Suite
+- 📊 Log Analysis: Splunk, ELK Stack
+- 🔍 Threat Intelligence: MITRE ATT&CK, IOC extraction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 📘 Projects
+- 🔍 [TryHackMe Writeups](https://github.com/sireeshacyber/thm-writeups)
+- 📄 [SIEM Log Analysis Lab](https://github.com/sireeshacyber/siem-lab)
+- 🧪 [Vulnerability Scanning Report](https://github.com/sireeshacyber/vuln-scan-lab)
+- 🔐 [Essential Eight Mapping](https://github.com/sireeshacyber/essential-eight-checklist)-->
+
+## 📜 Certifications
+- ✅ Google Cybersecurity Certificate
+- 🚀 CEH v12
+
+## 📫 Contact Me
+- ✉️ sireesha.segireddy@gmail.com
+- 🔗 https://www.linkedin.com/in/lakshmisireeshasegireddy
