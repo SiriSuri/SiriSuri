@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sireesha Segireddy
-A Certified Ethical Hacker(CEH v12) and on mission to secure IT & OT infrastructure.
+A Certified Ethical Hacker(CEH v12) and passionate in security of IT & OT infrastructure.
 
 ## 🧠 Current Focus
 - SOC Tools: Splunk, Wireshark, Nmap
